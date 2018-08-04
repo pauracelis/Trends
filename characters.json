@@ -1,0 +1,42 @@
+{
+	"params":[{
+		"id": 1,
+		"imageName": "dustin.png",
+		"characterName": "Dustin Henderson",
+		"description":"Smart, goofy, and confident. Dustin gets picked on because he has cleidocranial dysplasia, which causes him to lisp because his teeth and jaw are oddly shaped. But he doesn't let the bullies get to him. He’s secure in who he is and that his friends have his back, and that’s what matters. In fact, his only seeming insecurity is that while his other friends have lived in Hawkins their whole lives, he “only” moved to town in fourth grade and is thus the relative latecomer to their group. But his devotion and resourcefulness quickly won him a spot in the group.",
+		"header": "dustin2.png"
+	},{
+		"id": 2,
+		"imageName": "eleven.png",
+		"characterName": "Eleven",
+		"description":"Wary and withdrawn, but very protective to those she cares about. Eleven has had a remarkably difficult childhood, if it can even be called a “childhood.” Mike might be the first person she’s met who truly cares about her, and not just about what she could do for him. So it’s no surprise that she is very cautious around most people, just as it’s understandable how loyal she is to Mike. If necessary, she will put herself in danger to help him and his friends.",
+		"header": "eleven2.png"
+	},{
+		"id": 3,
+		"imageName":"lucas.png",
+		"characterName": "Lucas Sinclair",
+		"description":"Loyal but headstrong. Lucas wants to find Will just as badly as his friends do, but unlike Mike, he is suspicious of Eleven from the start. He wants Mike to tell his parents about her, but Eleven uses her mind to slam the door so he can’t – and that’s just her first “trick.” The tension between Lucas and Mike, who has been his neighbor and best friend their whole lives, over Eleven only increases. But you can’t help but think that when push comes to shove, Lucas will be there for his friends. ",
+		"header": "lucas2.png"
+	},{
+		"id": 4,
+		"imageName": "max.png",
+		"characterName": "Max Mayfield",
+		"description":"Max is a tomboy, having many interests that some wouldn’t consider “conventional” for a girl during the time period. She greatly enjoys skateboarding and is skilled at arcade games (such as Dig Dug), being proficient enough to achieve the top scores. She also displays a slight interest in horror films, having dressed as Michael Myers for Halloween.",
+		"header": "max2.png"
+	},
+	{
+		"id": 5,
+		"imageName":"mike.png",
+		"characterName": "Mike Wheeler",
+		"description":"Smart, loyal, and resourceful. It would be hard to find a better friend than Mike. Like any kid, he sometimes gets into arguments, but he’s quick to forgive. He would do most anything for those he cares about, and since he’s an unusually capable 12-year-old, his “anything” can be quite a lot. ",
+		"header": "mike2.png"
+	},
+	{
+		"id": 6,
+		"imageName":"will.png",
+		"characterName": "Will Byers",
+		"description":"Optimistic, clever, and creative. Will hasn’t had an easy life ­– his dad Lonnie left the family when he was young – but you wouldn’t know it by how cheerful he is. He’s a talented artist who has also picked up a love of music (especially The Clash) from his older brother, Jonathan. It’s no surprise that the town rallies together to help find Will, and that his friends won’t stop the search even when others tell them it’s hopeless. Will is an easy kid to root for.",
+		"header": "will2.png"
+	}
+	]
+}

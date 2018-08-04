@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<% include partials/head.ejs %>
+	</head>
+	<body>
+	<% include partials/header.ejs %>
+		<div id="hero-image-single" style="background-image: url('/images/<%=char.header %>') ">
+			<h1 id="hero-title"><%= title %></h1>
+			</h1>
+		</div>
+
+	<div class="content-padding clearfix">
+		<div class="poster-wrapper">
+  		<img src="/images/<%= char.imageName %>" class="img-responsive">
+  		</div>
+
+  		<div class="description-wrapper">
+  			<div class="description">
+  			<h2 class="movie-header">Description</h2>
+  			<p><%= char.description %></p>
+  			</div>
+  		</div>
+
+	</div>
+	<!-- <div class="content-padding clearfix"> -->
+	<hr>
+		<div class="content-padding clearfix">
+			<div class="description">
+			<h2 class="movie-header">Posts</h2>
+			</div>
+		</div>
+	<hr>
+		<div class="content-padding clearfix">
+			<div class="description">
+			<h2 class="movie-header">Comments</h2>
+			</div>
+		</div>
+	<!-- </div> -->
+
+
+	<% include partials/scripts.ejs %>
+	<% include partials/footer.ejs %>
+
+
+	</body>
+</html>

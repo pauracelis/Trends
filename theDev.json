@@ -1,0 +1,11 @@
+{
+	"params":[{
+		"id": 1,
+		"imageName": "pau.png",
+		"fullname": "Pauline Joyce Racelis",
+		"roles":"MEAN Stack Developer, QA Tester, Support",
+		"project":"Stranger Things inspired , made with Node, Express, HTML, CSS, and Javascript.",
+		"social":"https://www.linkedin.com/in/pauracelis/"
+	}
+	]
+}

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<% include partials/head.ejs %>
+	</head>
+	<body>
+	<% include partials/header.ejs %>
+		<div id="hero-image-single">
+			<h1 id="hero-title"><%= title %></h1>
+			</h1>
+		</div>
+
+		<div class="content-padding clearfix">
+			<div class="poster-wrapper">
+  				<img src="/images/<%=info.imageName %>" class="img-responsive">
+  			</div>
+
+  			<div class="description-wrapper">
+  				<div class="description">
+  					<h2 class="movie-header">The Developer</h2>
+  						<p><%=roles %></p>
+  				</div>
+  				<div class="description">
+  					<h2 class="movie-header">This Website</h2>
+  						<p><%=project %></p>
+  				</div>
+
+  				<div class="description">
+  					<h2 class="movie-header">Stalk the Developer</h2>
+  						<a href ="<%=social %>" class="episode_link">
+  						<p>
+  							LinkedIn
+  						</p>
+  						</a>
+  				</div>
+
+  			</div>
+		</div>
+
+	<% include partials/scripts.ejs %>
+
+	</body>
+</html>
